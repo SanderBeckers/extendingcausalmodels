@@ -11,7 +11,7 @@ url:                 https://sanderbeckers.github.io
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
-baseurl:             /extendingcausalmodels
+baseurl:             /extendingcausalmodels/tag/home
 
 title:               Extending Causal Models
 
@@ -48,7 +48,7 @@ author:
    This conference is organized by [Sander Beckers](https://sanderbeckers.github.io/website/about/) and [Naftali Weinberger](https://sites.google.com/site/naftaliweinberger/), both members of the Munich Center for Mathematical Philosophy, Ludwig Maximilian University of Munich.
    Funding is made possible by the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de) and the [MCMP](https://www.mcmp.philosophie.uni-muenchen.de).
    
-   If you have any questions, feel free to contact us:  <a href="mailto:srekcebrednas@gmail.com?Subject=Question%20Regarding%20Conference" target="_top">srekcebrednas@gmail.com</a>. 
+   If you have any questions, feel free to contact us:  <a href="mailto:srekcebrednas@gmail.com?Subject=Question%20Regarding%20Conference" target="_top">srekcebrednas@gmail.com</a>, or <a href="mailto:naftali.weinberger@gmail.com?Subject=Question%20Regarding%20Conference" target="_top">srekcebrednas@gmail.com</a>. 
 
      
   # Social media icons in sidebar
