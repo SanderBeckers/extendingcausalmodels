@@ -21,13 +21,13 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  Welcome to the conference page 
+  Welcome to our conference page 
 
 # The tags listed as entries in the sidebar
 sidebar_tags:        [home, cfp, speakers, practical]
 
 # Fallback image and color if not overwritten for tag or post
-image:               /extendingcausalmodels/sander/background44.jpg
+image:               /extendingcausalmodels/sander/image1.jpg
 color:               '#A85641'
 
 # Fonts
