@@ -38,6 +38,24 @@ home:
   image: /extendingcausalmodels/sander/image1.jpg
   color: '#949667'
   description: >
+  
+cfp:
+  name: Call
+  image: /extendingcausalmodels/sander/image1.jpg
+  color: '#949667'
+  description: >
+  
+speakers:
+  name: Keynote
+  image: /extendingcausalmodels/sander/image1.jpg
+  color: '#949667'
+  description: >
+  
+practical:
+  name: Practical
+  image: /extendingcausalmodels/sander/image1.jpg
+  color: '#949667'
+  description: >
 
 
 
