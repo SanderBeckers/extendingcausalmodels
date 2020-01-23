@@ -11,28 +11,6 @@
 #     *My Tag* is an example of how to define a custom tag.
 # ~~~
 
-articles:
-  name: Articles
-  image: /website/sander/background66.jpg
-  color: '#949667'
-  description: >
-
-
-
-talks:
-  name: Talks
-  image: /website/sander/background33.jpg
-  color: '#949667'
-  description: >
-
-
-
-cv:
-  name: CV
-  image: /website/sander/background11.jpg
-  color: '#949667'
-  description: >
-
 home:
   name: Home
   image: /extendingcausalmodels/sander/image1.jpg
@@ -40,19 +18,19 @@ home:
   description: >
   
 cfp:
-  name: Call
+  name: CallForPapers
   image: /extendingcausalmodels/sander/image1.jpg
   color: '#949667'
   description: >
   
 speakers:
-  name: Keynote
+  name: KeynoteSpeakers
   image: /extendingcausalmodels/sander/image1.jpg
   color: '#949667'
   description: >
   
 practical:
-  name: Practical
+  name: PracticalInfo
   image: /extendingcausalmodels/sander/image1.jpg
   color: '#949667'
   description: >
