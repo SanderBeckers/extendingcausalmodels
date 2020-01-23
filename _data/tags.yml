@@ -18,19 +18,19 @@ home:
   description: >
   
 cfp:
-  name: Call ForPapers
+  name: Call For Papers
   image: /extendingcausalmodels/sander/image1.jpg
   color: '#949667'
   description: >
   
 speakers:
-  name: KeynoteSpeakers
+  name: Keynote Speakers
   image: /extendingcausalmodels/sander/image1.jpg
   color: '#949667'
   description: >
   
 practical:
-  name: PracticalInfo
+  name: Practical Info
   image: /extendingcausalmodels/sander/image1.jpg
   color: '#949667'
   description: >
