@@ -15,7 +15,7 @@
   
 home:
   name: Home
-  image: /website/sander/image1.jpg
+  image: /extendingcausalmodels/sander/image1.jpg
   color: '#949667'
   description: >
 
