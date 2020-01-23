@@ -11,8 +11,6 @@
 #     *My Tag* is an example of how to define a custom tag.
 # ~~~
 
-
-  
 home:
   name: Home
   image: /extendingcausalmodels/sander/image1.jpg
