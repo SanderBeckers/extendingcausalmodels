@@ -11,11 +11,7 @@
 #     *My Tag* is an example of how to define a custom tag.
 # ~~~
 
-articles:
-  name: Articles
-  image: /website/sander/background66.jpg
-  color: '#949667'
-  description: >
+
   
 home:
   name: Home
