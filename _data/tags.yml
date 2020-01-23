@@ -39,24 +39,5 @@ home:
   color: '#949667'
   description: >
 
-cfp:
-  name: Call for Papers
-  image: /website/sander/image1.jpg
-  color: '#949667'
-  description: >
-
-speakers:
-  name: Keynote Speakers
-  image: /website/sander/image1.jpg
-  color: '#949667'
-  description: >
-  
- practical:
-  name: Practical Info
-  image: /website/sander/image1.jpg
-  color: '#949667'
-  description: >
-
-
 
 
