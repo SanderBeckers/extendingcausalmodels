@@ -13,5 +13,5 @@ Location: Munich, Germany
 
 The conference fee is TBD, but students and members of the LMU can register for free. Since space is limited, however, attendees not giving a presentation are required to register before TBD via TBD.
 
-The conference is organized by Sander Beckers and Naftali Weinberger (MCMP, LMU Munich) and funded by grants from the Alexander von Humboldt Foundation.
+The conference is organized by [Sander Beckers](https://sanderbeckers.github.io/website) and [Naftali Weinberger](https://sites.google.com/site/naftaliweinberger/) (MCMP, LMU Munich) and funded by grants from the [Alexander von Humboldt Foundation](http://www.humboldt-foundation.de).
 
