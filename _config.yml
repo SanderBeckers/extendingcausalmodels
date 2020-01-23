@@ -11,7 +11,7 @@ url:                 https://sanderbeckers.github.io
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
-baseurl:             /extendingcausalmodels/tag/home
+baseurl:             /extendingcausalmodels
 
 title:               Extending Causal Models
 
