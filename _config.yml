@@ -11,7 +11,7 @@ url:                 https://sanderbeckers.github.io
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
-baseurl:             /website
+baseurl:             /extendingcausalmodels
 
 title:               Extending Causal Models
 
@@ -27,7 +27,7 @@ description:         >
 sidebar_tags:        [home, cfp, speakers, practical]
 
 # Fallback image and color if not overwritten for tag or post
-image:               /website/sander/background44.jpg
+image:               /extendingcausalmodels/sander/background44.jpg
 color:               '#A85641'
 
 # Fonts
@@ -40,14 +40,14 @@ author:
   name:              'Extending Causal Models'
 
   # This photo will be used in the about section
-  photo:             /website/sander/image1.jpg
+  photo:             /extendingcausalmodels/sander/image1.jpg
   #photo2x:          
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about: |
-   Text [text with link.](https://responsibleintelligentsystems.sites.uu.nl)
+   Text [text with link.](https://google.com)
    
-   e-mail:  <a href="mailto:srekcebrednas@gmail.com?Subject=Job%20Offer%20from%20[Fill%20in%20your%20prestigious%20university]" target="_top">srekcebrednas@gmail.com</a>. 
+   If you have any questions, feel free to contact us:  <a href="mailto:srekcebrednas@gmail.com?Subject=Question%20Regarding%20Conference" target="_top">srekcebrednas@gmail.com</a>. 
 
      
   # Social media icons in sidebar
