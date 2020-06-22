@@ -8,7 +8,7 @@ description: >
 
 ### Practical Info
 
-Date: September 7-8, 2020 
+Date: XXX
 
 Location: Munich, Germany
 
